@@ -28,6 +28,7 @@ body {
 .tabla *{
     text-align: center;
     font-size: 40px;
+    user-select: none;
     transition: 0.2s ease-in-out;
     cursor: pointer;
     border: black  thin solid;
